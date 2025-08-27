@@ -186,12 +186,6 @@ const data = {
 
     certifications: [
         {
-            "title": "HackwithInfy 2025 Finalist",
-            "issuer": "Infosys",
-            "date": "Aug 2025",
-            "link": "https://example.com/certificate-link"
-        },
-        {
             "title": "Python for Data Science",
             "issuer": "Coursera",
             "date": "Jul 2024",
