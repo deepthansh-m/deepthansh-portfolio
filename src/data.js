@@ -173,13 +173,13 @@ const data = {
             "school": "Vidhya Jyothi PU College",
             "degree": "Karnataka PU Board (2nd PUC), PCMB",
             "dates": "Aug 2020 – Apr 2022",
-            "grade": "85%"
+            "grade": "81%"
         },
         {
             "school": "Christ International School",
             "degree": "ICSE (10th Grade)",
             "dates": "Jun 2009 – Mar 2020",
-            "grade": "81%",
+            "grade": "80%",
             "skills": ["Java"]
         }
     ],
