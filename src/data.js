@@ -145,7 +145,8 @@ const data = {
             company: "Get Gro Technologies",
             role: "Backend Developer Intern",
             duration: "2024 - 2025",
-            details: "Worked on software development, testing, and deployment tasks. Developed chatbot using Django backend responses."
+            details: "Contributed to the development of an application using Ruby, Ruby on Rails, and PostgreSQL, implementing full CRUD functionality and user authentication.\n" +
+                "Designed and implemented a chatbot application using Django, developing backend logic to process user queries and generate dynamic responses. Optimized system performance to enhance response accuracy and user experience."
         }
     ],
 
