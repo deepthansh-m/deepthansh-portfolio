@@ -142,7 +142,7 @@ const data = {
 
     experience: [
         {
-            company: "Get Gro Technologies",
+            company: "Getgro.io",
             role: "Backend Developer Intern",
             duration: "2024 - 2025",
             details: "Contributed to the development of an application using Ruby, Ruby on Rails, and PostgreSQL, implementing full CRUD functionality and user authentication.\n" +
