@@ -144,7 +144,7 @@ const data = {
         {
             company: "Getgro.io",
             role: "Backend Developer Intern",
-            duration: "2024 - 2025",
+            duration: "NOV 2024 - FEB 2025",
             details: "Contributed to the development of an application using Ruby, Ruby on Rails, and PostgreSQL, implementing full CRUD functionality and user authentication.\n" +
                 "Designed and implemented a chatbot application using Django, developing backend logic to process user queries and generate dynamic responses. Optimized system performance to enhance response accuracy and user experience."
         }
